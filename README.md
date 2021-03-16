@@ -1,6 +1,15 @@
 ### Hi there 👋
 
+[![ji-park's 42 stats](https://badge42.herokuapp.com/api/stats/ji-park)](https://github.com/JaeSeoKim/badge42)
+
+
 <!--
+- ### Welcome to 🐶 papawolf's Github 👋
+
+🌱 I’m currently learning ...
+- 🖥 genesis of code (in 42)
+- 🐣 algorithm study
+
 **earthkingman/earthkingman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
