@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 👋
 
 [![ji-park's 42 stats](https://badge42.herokuapp.com/api/stats/ji-park)](https://github.com/JaeSeoKim/badge42)
 
