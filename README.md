@@ -1,9 +1,6 @@
 ### 안녕하세요 👋
 
-이력서 
 
-
-https://www.notion.so/01e1dd314b5d41bb80a50df92de8e5b8
 
 [![ji-park's 42 stats](https://badge42.herokuapp.com/api/stats/ji-park)](https://github.com/JaeSeoKim/badge42)
 
